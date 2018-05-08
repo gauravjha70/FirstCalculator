@@ -1,0 +1,2 @@
+This is a simple calculator application.
+This provides the  user to add, subtract, multiply and divide two numbers.
